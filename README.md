@@ -1,4 +1,4 @@
-# tbp.simulator_habitat
+# feat.simulator_habitat
 
 This is a prototype repository where we experimented with hosting a Habitat simulator behind a prototype GRPC API. It was used as part of our 2025 Brighton Hackathon project: https://github.com/thousandbrainsproject/prototype.simulator
 
