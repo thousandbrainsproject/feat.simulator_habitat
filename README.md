@@ -1,5 +1,7 @@
 # tbp.simulator_habitat
 
+This is a prototype repository where we experimented with hosting a Habitat simulator behind a prototype GRPC API. It was used as part of our 2025 Brighton Hackathon project: https://github.com/thousandbrainsproject/prototype.simulator
+
 ## Generate proto files
 
 python -m grpc_tools.protoc -IPATH/TO/TBP/MONTY/proto --python_out=src --pyi_out=src --grpc_python_out=src PATH/TO/TBP/MONTY/proto/tbp/simulator/protocol/v1/protocol.proto
